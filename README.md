@@ -43,7 +43,9 @@ The Weather App relies on the following technologies and APIs:
 - JavaScript: The programming language used to fetch weather data and manipulate the DOM.
 - OpenWeatherMap API: The API used to retrieve weather information for specific cities.
 
-## Live Demo https://adwebtechnology.com/weather/ToDoListApp.html
+# Live Demo
+
+Check out the live version of the app: [Live Demo](https://adwebtechnology.com/weather/ToDoListApp.html)
 
 ## Contribution
 
