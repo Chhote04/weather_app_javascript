@@ -45,7 +45,7 @@ The Weather App relies on the following technologies and APIs:
 
 # Live Demo
 
-Check out the live version of the app: [Live Demo](https://adwebtechnology.com/weather/ToDoListApp.html)
+Check out the live version of the app: [Live Demo](https://adwebtechnology.com/weather/weather_app.html)
 
 ## Contribution
 
