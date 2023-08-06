@@ -2,6 +2,8 @@
 
 The Weather App is a simple web application that allows users to retrieve weather information for a specific city. Users can enter the name of a city, and the app will display the current weather conditions, including temperature, humidity, and wind speed. If an invalid city name is entered, the app will display an error message indicating that the city is not found.
 
+![Weight Converter App](./sreenshot.png)
+
 ## How to Use the Weather App
 
 1. Clone the Repository:
@@ -41,15 +43,16 @@ The Weather App relies on the following technologies and APIs:
 - JavaScript: The programming language used to fetch weather data and manipulate the DOM.
 - OpenWeatherMap API: The API used to retrieve weather information for specific cities.
 
-## License
-
-This Weather App is released under the MIT License. You are free to use, modify, and distribute the code as per the terms of the MIT License.
+## Live Demo (https://adwebtechnology.com/weather/ToDoListApp.html)
 
 ## Contribution
 
 If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
 
 ## Acknowledgments
+
+The app developement is inspired by Chhote Lal Jatav's .
+GreatStack for https://www.youtube.com/@GreatStackDev.
 
 This Weather App was created as a simple project to demonstrate the use of HTML, CSS, JavaScript, and an external API. Special thanks to OpenWeatherMap for providing the weather data API.
 
