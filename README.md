@@ -2,7 +2,7 @@
 
 The Weather App is a simple web application that allows users to retrieve weather information for a specific city. Users can enter the name of a city, and the app will display the current weather conditions, including temperature, humidity, and wind speed. If an invalid city name is entered, the app will display an error message indicating that the city is not found.
 
-![Weight Converter App](./sreenshot.png)
+![Weather App](./screenshot.png)
 
 ## How to Use the Weather App
 
